@@ -22,7 +22,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 ## 🚀 Tecnologias
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
